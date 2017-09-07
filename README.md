@@ -1,3 +1,10 @@
+<h1 align="center">
+<img width="40" valign="bottom" src="https://angular.io/assets/images/logos/angular/angular.svg">
+Angular routing: basics
+</h1>
+<h4 align="center"></h4>
+
+
 # 1. SPA (Single Page Application)
 
 단일 페이지 어플리케이션(Single Page Application, SPA)는 모던 웹의 패러다임이다. SPA는 기본적으로 단일 페이지로 구성되며 기존의 서버 사이드 렌더링과 비교할 때, 배포가 간단하며 네이티브 앱과 유사한 사용자 경험을 제공할 수 있다는 장점이 있다.
